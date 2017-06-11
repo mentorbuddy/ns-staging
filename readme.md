@@ -5,7 +5,7 @@ This repo contains an Nagpur Startups implementation of Wagtail, demonstrating i
 ####Setup
 
 * Setup virtual environment of choice
-* `git clone https://github.com/chrxr/multi-site-wagtail.git`
+* `git clone https://github.com/mentorbuddy/ns-staging`
 * `cd multi-site-wagtail`
 * `pip install -r requirements.txt`
 
