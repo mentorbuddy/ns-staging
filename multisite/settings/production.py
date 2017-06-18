@@ -2,7 +2,7 @@ from __future__ import absolute_import, unicode_literals
 
 from .base import *
 
-DEBUG = False
+DEBUG = config('DEBUG')
 
 # Database
 # https://docs.djangoproject.com/en/1.9/ref/settings/#databases
